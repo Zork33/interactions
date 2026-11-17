@@ -30,7 +30,7 @@ See [common/README.md](common/README.md) and [common/README.detailed.md](common/
 
 ## hope
 
-**https://github.com/delightsoft/hope** (npm name: `dscommon3`)
+**https://github.com/delightsoft/hope**
 
 Declarative document-model framework for JavaScript data layers, written in CoffeeScript 2.
 You declare the business domain once (plain JSON/JS structures) and the library compiles it into
