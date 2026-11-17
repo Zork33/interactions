@@ -67,7 +67,7 @@ persistence with versioning; a document HTTP API; configurable access control; a
 client (CoffeeScript) with reusable forms, tables and field widgets. Dev-mode tooling at
 `/@docflow` and `/@sql`.
 
-The Java/CoffeeScript ancestor of the `hope` + `common` stack.
+The Java/CoffeeScript predecessor of the `hope` + `common` stack.
 
 ## webprofy-rms
 
